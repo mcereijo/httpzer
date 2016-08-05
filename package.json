@@ -10,6 +10,9 @@
     "https",
     "web"
   ],
+  "bin":{
+    "httpzer": "index.js"
+  },
   "dependencies": {
     "commander": "2.9.x",
     "express": "4.14.x",

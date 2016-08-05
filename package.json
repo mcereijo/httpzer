@@ -1,0 +1,20 @@
+{
+  "name": "httpzer",
+  "description": "Simple web server with https support",
+  "version": "0.0.1",
+  "author": "Marcos Cereijo Rodríguez",
+  "license": "MIT",
+  "keywords": [
+    "http",
+    "https",
+    "web"
+  ],
+  "dependencies": {
+    "commander": "2.9.x",
+    "express": "4.14.x",
+    "serve-index": "1.8.x"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

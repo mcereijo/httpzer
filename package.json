@@ -2,8 +2,9 @@
   "name": "httpzer",
   "description": "Simple web server with https support",
   "version": "0.0.1",
-  "author": "Marcos Cereijo Rodríguez",
+  "author": "Marcos Cereijo Rodríguez <marcoscereijo@gmail.com>",
   "license": "MIT",
+  "repository": "git://github.com/mcereijo/httpzer.git",
   "keywords": [
     "http",
     "https",

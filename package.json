@@ -1,7 +1,7 @@
 {
   "name": "httpzer",
   "description": "Simple web server with https support",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Marcos Cereijo Rodríguez <marcoscereijo@gmail.com>",
   "license": "MIT",
   "repository": "git://github.com/mcereijo/httpzer.git",
@@ -10,7 +10,7 @@
     "https",
     "web"
   ],
-  "bin":{
+  "bin": {
     "httpzer": "index.js"
   },
   "dependencies": {
